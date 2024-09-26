@@ -1,2 +1,0 @@
-# CA2
-DevOps
